@@ -1,0 +1,12 @@
+*~
+.DS_Store
+.classpath
+.project
+.settings/
+.svn
+/bin/
+build/
+builds/
+classes/
+out/
+/target/
